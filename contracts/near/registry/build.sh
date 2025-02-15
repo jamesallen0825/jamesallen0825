@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/s
 set -e
 
 cd "$(dirname $0)"
