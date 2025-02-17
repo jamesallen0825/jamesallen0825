@@ -9,7 +9,7 @@ services:
       - ./data:/data
 
   app_node_run:
-    image: merod:latest
+    image:    merod:latest
     ports:
       - '2428:2428'
       - '2528:2528'
